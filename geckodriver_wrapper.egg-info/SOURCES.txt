@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+geckodriver_wrapper/__init__.py
+geckodriver_wrapper/geckodriver.exe
+geckodriver_wrapper.egg-info/PKG-INFO
+geckodriver_wrapper.egg-info/SOURCES.txt
+geckodriver_wrapper.egg-info/dependency_links.txt
+geckodriver_wrapper.egg-info/top_level.txt

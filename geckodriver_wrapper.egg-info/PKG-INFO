@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: geckodriver-wrapper
+Version: 0.2
+Summary: A packaged version of geckodriver for offline use.
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Dynamic: classifier
+Dynamic: summary
