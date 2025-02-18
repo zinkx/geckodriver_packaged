@@ -1,1 +1,2 @@
 include geckodriver_wrapper/geckodriver.exe
+include README.md
